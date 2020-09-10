@@ -1,2 +1,3 @@
 #Files that need to be ignored
 src/*.identifier
+Demo/*.identifier
